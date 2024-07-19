@@ -59,7 +59,7 @@ MIDDLEWARE = [
 
 
 CORS_ORIGIN_WHITELIST = (
-    'http://localhost:3000',
+    'http://mydirectory.cloud.s3-website.us-east-2.amazonaws.com',
     
 )
 
